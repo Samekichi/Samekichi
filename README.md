@@ -1,7 +1,7 @@
-### Samekichi here. 
-- Currently a freshman taking zoom courses (somewhat more convenient than the traditional ones, I guess =q=)
-- Amateur Chinese translator of Minecraft Fabric Mods (with the ones I'm most satisfied with pinned below.)
-- Wish to become a modder sometime, but probably not soon lol
+### Samekichi here.
+- Pre-sophomore attending class in person this fall
+- Amateur Chinese translator of Minecraft Mods (mostly fabric)
+- Wish to become a modder sometime~~, probably not soon~~
 
 Btw, suggestions on my translations are highly welcome :D
 <!--
