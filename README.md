@@ -1,7 +1,7 @@
 ### Samekichi here.
 - Pre-sophomore attending class in person this fall
 - Amateur Chinese translator of Minecraft Mods (mostly fabric)
-- Wish to become a modder sometime, but yeah it might be tough for a starter at this age =p=
+- Though it might be tough for a starter at this age to start to learn coding, I still wish to become a modder =p=
 
 Btw, suggestions on my translations are highly welcome :D
 <!--
