@@ -1,5 +1,5 @@
 ### Samekichi here.
-- Pre-sophomore attending class in person this fall
+- Sophomore attending class in person this spring
 - Amateur Chinese translator of Minecraft Mods (mostly fabric)
 - Though it might be tough for a starter at this age to start to learn coding, I still wish to become a modder =p=
 
