@@ -1,5 +1,5 @@
 ### Samekichi here.
-- Junior now!
+- Senior now!
 - Amateur Chinese translator of Minecraft Mods (mostly fabric)
 - Wish to make great mods sometime.
 
