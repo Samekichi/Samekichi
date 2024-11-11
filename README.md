@@ -1,7 +1,8 @@
 ### Samekichi here.
-- Senior now!
+- First-year grad student from MSCS @ UCSD
+- Interested in iOS App / Unity Indie-game / Backend system / Web3 development.
 - Amateur Chinese translator of Minecraft Mods (mostly fabric)
-- Wish to make great mods sometime.
+- Wish to make great mods and projects in the future!
 
 Btw, suggestions on my translations are highly welcome :D
 <!--
