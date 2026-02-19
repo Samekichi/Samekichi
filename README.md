@@ -1,10 +1,9 @@
 ### Samekichi here.
 - Master of Computer Science @ UCSD
-- Interested in iOS App / Unity Indie-game / Backend system and the fascinating AI tools.
-- Amateur Chinese translator of Minecraft Mods (mostly Fabric)
+- Interested in iOS App / Unity Indie-game / Backend system and integration of the fascinating AI tools.
+- Amateur Chinese translator of Minecraft Mods (mostly Fabric mods)
 - Wish to make great mods and projects in the future!
 
-Btw, suggestions on my translations are highly welcome :D
 <!--
 **Samekichi/Samekichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
